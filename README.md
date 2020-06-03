@@ -11,5 +11,5 @@ The project is Jersey JAX-RS Client for GET, POST, PUT, DELETE RESTFul API's. An
 * Java 11
 * PostgreSQL
 * Hibernate
-* Jersey
+* Jersey JAX-RS
 * itextpdf
