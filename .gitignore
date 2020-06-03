@@ -2,3 +2,12 @@
 /.gradle/
 /build/
 /build/classes/java/main/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ:
+.idea/
+*.iml
